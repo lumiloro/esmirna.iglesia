@@ -1,0 +1,10 @@
+git init
+git add file
+git status
+git commit -m ""
+git push
+git pull
+git clone
+
+git checkout -- file para regresar al cambio anterior
+git diff index.html ver las diferencias que tiene
